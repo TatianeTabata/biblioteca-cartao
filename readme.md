@@ -17,13 +17,16 @@ $  npm install cardvalidator-tatianetabata
 
 ```node
 
-> const validar = require("./lib/index");
+> const validar = require("cardvalidator-tatianetabata");
 > console.log(validar.cardValidator("4824790159602948"));
 
 ```
 Obs: Exemplo acima de cartão nao válido.
 
 ## roadmap oficial do projeto
+
+#### versão 1.0.2
+- atualização do readme.md
 
 #### versão 1.0.1
 - atualização do readme.md
