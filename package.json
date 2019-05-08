@@ -1,0 +1,21 @@
+{
+  "name": "cardvalidator-tatianetabata",
+  "version": "1.0.0",
+  "description": "Validador de Cartão",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "nyc mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-react": "^7.12.4"
+  }
+}
