@@ -9,7 +9,7 @@ Abaixo, seguem instruções do validador.
 
 ```javascript
 
-$  npm install biblioteca-cartao
+$  npm install cardvalidator-tatianetabata
 
 ```
 
@@ -24,6 +24,9 @@ $  npm install biblioteca-cartao
 Obs: Exemplo acima de cartão nao válido.
 
 ## roadmap oficial do projeto
+
+#### versão 1.0.1
+- atualização do readme.md
 
 #### versão 1.0.0 (released - complete)
 - funcionalidade completa = validação do cartao de crédito
